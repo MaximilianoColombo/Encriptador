@@ -20,7 +20,7 @@ Esta aplicación utiliza React y React-Bootstrap para ofrecer una interfaz de us
 
 Este proyecto es una aplicación de encriptador de texto desarrollada con `React` y `Bootstrap`. La información se almacena localmente utilizando la librería `use-local-storage`
 
-La aplicación está diseñada para ser intuitiva y fácil de usar, con un diseño atractivo, con componentes estandarizados gracias a la librería `react-bootstrap`.
+La aplicación está diseñada para ser intuitiva y fácil de usar, con un diseño atractivo y con componentes estandarizados gracias a la librería `react-bootstrap`.
 
 La interfaz se adapta bien a cualquier dispositivo gracias a la naturaleza responsiva de `Bootstrap`. Además, para mejorar la experiencia de usuario, se lanzan alertas personalizadas utilizando la librería `sweet-alert`.
 

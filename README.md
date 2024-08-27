@@ -30,7 +30,9 @@ La interfaz se adapta bien a cualquier dispositivo gracias a la naturaleza respo
 
 - **Encriptación de Texto**: Cifra texto utilizando una contraseña proporcionada.
 - **Desencriptación de Texto**: Descifra texto cifrado utilizando la misma contraseña.
+- **Control de fecha y hora**: Cada texto se almacena con la fecha y hora en la que fue encriptado.
 - **Gestión de Contraseñas**: Guarda y chequea las contraseñas.
+- **Copiar al portapapeles**: Se puede copiar el texto automáticamente en el portapapeles clickeando un botón.
 - **Interfaz Responsiva**: Utiliza React-Bootstrap para una interfaz moderna y adaptable.
 - **Validación de Entrada**: Asegura que el texto de entrada esté en minúsculas y sin acentos para una encriptación consistente.
 - **Almacenamiento local**: La información se almacena de forma local, y los datos perduran incluso después de cerrar el navegador.
